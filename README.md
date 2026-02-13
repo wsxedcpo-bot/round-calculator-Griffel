@@ -1,4 +1,4 @@
-[Расчет круглых коробок.html](https://github.com/user-attachments/files/25280065/default.html)
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
